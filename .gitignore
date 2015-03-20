@@ -10,3 +10,15 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+<html>
+  <head>
+    <title> Trying this out </title>
+  </head>
+  
+  <body>
+    <h1> yo gabba gabba </h1>
+  </body>
+  
+</html>
+  
